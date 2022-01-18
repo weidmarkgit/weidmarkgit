@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @weidmarkgit
+- 👀 I’m interested in System Administration, System Automation, BASH scripting, PowerShell scripting
+- 📫 How to reach me info@weidmarkit.com
